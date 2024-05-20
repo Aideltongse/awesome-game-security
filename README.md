@@ -1,3 +1,7 @@
+[final_accelerator_impact_report_2023.pdf](https://github.com/gmh5225/awesome-game-security/files/15380658/final_accelerator_impact_report_2023.pdf)
+[Build automation - Wikipedia.pdf](https://github.com/gmh5225/awesome-game-security/files/15380657/Build.automation.-.Wikipedia.pdf)
+[downloadfile (2).pdf](https://github.com/gmh5225/awesome-game-security/files/15380656/downloadfile.2.pdf)
+[downloadfile (1).pdf](https://github.com/gmh5225/awesome-game-security/files/15380655/downloadfile.1.pdf)
 
 # `awesome-game-security`
 ![image](https://github.com/gmh5225/awesome-game-security/assets/13917777/a39c6322-40ed-45b5-afcb-93e8d5477a0b)
